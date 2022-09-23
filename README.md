@@ -3,7 +3,7 @@
 A Full Stack e-commerce application with cart and payment functionalities!
 
 ## Built with:
-* Next.js - Framework used for the front-end and back-end. Used for file-based routing and server-side rendering.
+* React/Next.js - Framework used for the front-end and back-end. Used for file-based routing and server-side rendering.
 * Sanity - Database to store the information of the products.
 * Stripe - Used to manage payments, display checkout page, and process user transactions.
 
