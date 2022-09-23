@@ -709,7 +709,7 @@ padding: 30px 65px;
   cursor: pointer;
   transition: 0.3s ease;
   border: 1px solid #f26419;
-}
+}   
 .buttons .buy-now:hover{
   background-color: #ff5900;
   color: black;
@@ -757,7 +757,6 @@ padding: 6px;
   color: #f02d34;
 }
 .success-wrapper, .cancel-wrapper{
-  background-color: white;
   min-height: 60vh;
 
 }
