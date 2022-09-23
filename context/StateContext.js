@@ -90,6 +90,7 @@ export const StateContext = ({ children }) => {
                 setTotalQuantities,
                 totalQuantities,
                 qty,
+                setQty,
                 incQty,
                 decQty,
                 onAdd,
