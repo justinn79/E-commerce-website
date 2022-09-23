@@ -1,3 +1,24 @@
+# E-Commerce Website Application (JUNO)
+
+A Full Stack e-commerce application with cart and payment functionalities!
+
+## Built with:
+* Next.js - Framework used for the front-end and back-end. Used for file-based routing and server-side rendering.
+* Sanity - Database to store the information of the products.
+* Stripe - Used to manage payments, display checkout page, and process user transactions.
+
+## Live Demo
+<a href="https://e-commerce-website-964o.vercel.app/">Click here for a Live Demo!</a>
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
