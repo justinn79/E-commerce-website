@@ -7,15 +7,12 @@ A Full Stack e-commerce application with cart and payment functionalities!
 * Sanity - Database to store the information of the products.
 * Stripe - Used to manage payments, display checkout page, and process user transactions.
 
+
 ## Live Demo
 <a href="https://e-commerce-website-964o.vercel.app/">Click here for a Live Demo!</a>
 
 
-
-
-
-
-
+##
 
 
 
