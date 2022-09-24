@@ -14,7 +14,7 @@ const Navbar = () => {
     <div className="navbar-container">
       <p className="logo">
         <Link href="/">
-          JUNO
+          JUNRO
         </Link>
       </p>
 

@@ -6,7 +6,7 @@ import Link from 'next/link';
 const Footer = () => {
   return (
     <div className="footer-container">
-      <p>2022 JUNO All rights reserved</p>
+      <p>2022 JUNRO All rights reserved</p>
 
       <p className="icons">
         <AiFillInstagram />
@@ -25,7 +25,7 @@ const Footer = () => {
           </div>
         </p>
         <p>
-          Want to learn more about JUNO?
+          Want to learn more about JUNRO?
           <br></br>
           <div className="footerLink">
             <Link href="../aboutus">

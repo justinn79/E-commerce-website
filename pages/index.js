@@ -9,7 +9,7 @@ const Home = ({ products, bannerData }) => (
       <div>
         <div className="storeTitle">
           <div className="title">
-              <h1>JUNO</h1>
+              <h1>JUNRO</h1>
           </div>
           <h3 className="storeDesc">Your one stop shop for finding gaming consoles!</h3>
       </div>
