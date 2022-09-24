@@ -1,4 +1,4 @@
-# E-Commerce Website Application (JUNO)
+# E-Commerce Website (JUNO)
 
 A Full Stack e-commerce application with cart and payment functionalities!
 
