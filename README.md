@@ -1,4 +1,4 @@
-# E-Commerce Website (JUNO)
+# E-Commerce Website (JUNRO)
 
 A Full Stack e-commerce application with cart and payment functionalities!
 
